@@ -24,36 +24,17 @@ Passionate about building modern web applications and solving real-world problem
 - JavaScript
 - React.js
 - Tailwind CSS
+- TypeScript
 
 ### Backend
 - Node.js
 - Express.js
 - MongoDB
 
----
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)react&perline=5)](https://skillicons.dev)
-
-## 📌 Featured Projects
-
-### 🔹 TaskMate
-Smart productivity and task management application.
-
-### 🔹 Movie Reviewer
-Movie browsing and review platform using APIs.
-
-### 🔹 News App
-Country-based category news application.
-
-### 🔹 Code Editor
-Online HTML/CSS/JS code editor built using React.
-
----
-
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/ManojCodeNew
-- LinkedIn: Add Your LinkedIn Here
-- Portfolio: Add Portfolio Here
+- LinkedIn:https://www.linkedin.com/in/manojc2004/
 
 ---
 
