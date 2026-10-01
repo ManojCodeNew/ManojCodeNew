@@ -63,9 +63,9 @@ My repositories reflect my journey through web and mobile development—learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ManojCodeNew&show_icons=true&theme=github_dark&hide_border=true" alt="Manoj's GitHub statistics" width="480" />
+<img src="https://github-readme-stats.vercel.app/api?username=ManojCodeNew&show_icons=true&theme=github_dark&hide_border=true" alt="Manoj's GitHub statistics" width="480" height="50%" />
 
-<img src="https://streak-stats.demolab.com?user=ManojCodeNew&theme=github_dark&hide_border=true" alt="Manoj's GitHub contribution streak" width="480" />
+<img src="https://streak-stats.demolab.com?user=ManojCodeNew&theme=github_dark&hide_border=true" alt="Manoj's GitHub contribution streak" width="480" height="50%" />
 
 </div>
 
